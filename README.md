@@ -1,5 +1,7 @@
 # Spider Stomping Game
 
+![Gameplay example](Docs/Gameplay.jpg?raw=true)
+
 ## About the game
 
 This game is a Halloween decoration, originally designed back in 2018, which is
@@ -37,6 +39,8 @@ As for software, you will need:
 * Processing audio library
 
 
+![Example of setup during the day](Docs/Setup-Daytime.jpg?raw=true)
+
 ## Equipment setup
 
 1. Set up the ladder to one side of the driveway with steps pointing toward the
@@ -62,6 +66,8 @@ get and the harder the game is.  Larger playfields also accommodate multiple
 players better.
 
 
+![Example of setup at night](Docs/Setup-Nighttime.jpg?raw=true)
+
 ## Software setup
 
 1. Due to the way OpenNI works, I have to launch Processing as the root user.
@@ -83,6 +89,8 @@ until you have completed all four corners.
 
 5. If you want to quit, stop the sketch.
 
+
+![Playfield screenshot](Docs/Playfield-Screenshot.jpg?raw=true)
 
 ## Playing the game
 
