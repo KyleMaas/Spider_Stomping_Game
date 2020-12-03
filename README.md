@@ -10,6 +10,8 @@ into projection space to allow players to try to stomp on as many cartoon spider
 as they can within the allotted time.
 
 
+
+
 ## Required equipment
 
 To run this game, you will need the following hardware:
@@ -39,6 +41,8 @@ As for software, you will need:
 * Processing audio library
 
 
+
+
 ![Example of setup during the day](Docs/Setup-Daytime.jpg?raw=true)
 
 ## Equipment setup
@@ -66,6 +70,8 @@ get and the harder the game is.  Larger playfields also accommodate multiple
 players better.
 
 
+
+
 ![Example of setup at night](Docs/Setup-Nighttime.jpg?raw=true)
 
 ## Software setup
@@ -90,6 +96,8 @@ until you have completed all four corners.
 5. If you want to quit, stop the sketch.
 
 
+
+
 ![Playfield screenshot](Docs/Playfield-Screenshot.jpg?raw=true)
 
 ## Playing the game
@@ -105,6 +113,8 @@ is stomped, you win!
 
 3. Once the game is over, it will reset back to the start mode in step 1.  This is a
 pretty simple game.
+
+
 
 
 ## Diagnosing problems
